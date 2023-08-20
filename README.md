@@ -1,4 +1,4 @@
-# <i> Olá Mundo! </i> <img src="assets/earth.gif" width="25px" height="25px"/>
+# <i> Olá Mundo! </i> <img src="assets/earth.gif" width="75px" height="75px"/>
 Meu nome é **Diego Rockenbach** e me apaixonei pela programação durante meu ensino médio. Desde então venho programando, seja por trabalho, estudo, lazer ou projetos próprios.
 
 Pronomes: ele/dele <br><br>
@@ -13,7 +13,7 @@ Pronomes: ele/dele <br><br>
 
 ---
 
-# <i> Hello World! </i> <img src="assets/earth.gif" width="25px" height="25px"/>
+# <i> Hello World! </i> <img src="assets/earth.gif" width="75px" height="75px"/>
 
 My name is **Diego Rockenbach** and I fell in love with programming during middle school. Since then I have been programming, whether for work, study, leisure or personal projects.
 
