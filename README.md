@@ -33,8 +33,8 @@ Pronouns: he/him. <br><br>
 ## <b> ➥ Experience with... </b>
 
 <div align="center"><br>
-  <img align="center" alt="Diego-PHP" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Diego-C" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <a href="https://www.php.net/" target="_blank"><img align="center" alt="Diego-PHP" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a>
+  <img align="center" alt="Diego-C" height="60" width="70" a="https://www.php.net/" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="Diego-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Diego-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="Diego-BOOTSTRAP" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
