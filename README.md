@@ -19,7 +19,7 @@ My name is **Diego Rockenbach** and I fell in love with programming during middl
 
 Pronouns: he/him <br><br>
 
-- Graduated for high school integrated with computer technician - IFFar, Santo Augusto;
+- Graduated from high school integrated with computer technician - IFFar, Santo Augusto;
 - Professional experience as a full-stack developer;
 - Currently attending college of Information Systems - UFSM, Santa Maria; <br><br>
 
