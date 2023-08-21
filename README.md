@@ -34,15 +34,15 @@ Pronouns: he/him. <br><br>
 
 <div align="center"><br>
   <a href="https://www.php.net/" target="_blank"><img align="center" alt="Diego-PHP" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img align="center" alt="Diego-C" height="60" width="70" a="https://www.php.net/" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img align="center" alt="Diego-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img align="center" alt="Diego-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
-  <a href="https://getbootstrap.com/" target="_blank"><img align="center" alt="Diego-BOOTSTRAP" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <a href="https://www.python.org/" target="_blank"><img align="center" alt="Diego-PYTHON" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
-  <a href="https://redis.com/" target="_blank"><img align="center" alt="Diego-REDIS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain-wordmark.svg">
-  <a href="https://www.java.com/" target="_blank"><img align="center" alt="Diego-JAVA" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg">
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img align="center" alt="Diego-JAVASCRIPT" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img align="center" alt="Diego-SQL" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
-  <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Diego-DOCKER" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)/" target="_blank"><img align="center" alt="Diego-C" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"></a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML/" target="_blank"><img align="center" alt="Diego-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg"></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img align="center" alt="Diego-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img align="center" alt="Diego-BOOTSTRAP" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></a>
+  <a href="https://www.python.org/" target="_blank"><img align="center" alt="Diego-PYTHON" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"></a>
+  <a href="https://redis.com/" target="_blank"><img align="center" alt="Diego-REDIS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain-wordmark.svg"></a>
+  <a href="https://www.java.com/" target="_blank"><img align="center" alt="Diego-JAVA" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg"></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img align="center" alt="Diego-JAVASCRIPT" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img align="center" alt="Diego-SQL" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg"></a>
+  <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Diego-DOCKER" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg"></a>
 
 </div>
