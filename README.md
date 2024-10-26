@@ -1,5 +1,5 @@
 # <i> Olá Mundo! </i> <img src="assets/earth.gif" width="35px" height="35px"/>
-Meu nome é **Diego Rockenbach**, tenho 18 anos e me apaixonei pela programação durante meu ensino médio. Desde então venho programando, seja por trabalho, estudo, lazer ou projetos próprios.
+Meu nome é **Diego Rockenbach**, tenho 20 anos e me apaixonei pela programação durante meu ensino médio. Desde então venho programando, seja por trabalho, estudo, lazer ou projetos próprios.
 
 Pronomes: ele/dele. <br><br>
 
@@ -15,7 +15,7 @@ Pronomes: ele/dele. <br><br>
 
 # <i> Hello World! </i> <img src="assets/earth.gif" width="35px" height="35px"/>
 
-My name is **Diego Rockenbach**, I am 18 years old and I fell in love with programming during High School. Since then I have been programming, whether for work, study, leisure or personal projects.
+My name is **Diego Rockenbach**, I am 20 years old and I fell in love with programming during High School. Since then I have been programming, whether for work, study, leisure or personal projects.
 
 Pronouns: he/him. <br><br>
 
