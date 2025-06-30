@@ -1,5 +1,5 @@
 # <i> Olá Mundo! </i> <img src="assets/earth.gif" width="35px" height="35px"/>
-Meu nome é **Diego Rockenbach**, tenho 20 anos e me apaixonei pela programação durante meu ensino médio. Desde então venho programando, seja por trabalho, estudo, lazer ou projetos próprios.
+Meu nome é **Diego Rockenbach**, nasci em 2004 e me apaixonei pela programação durante meu ensino médio. Desde então venho programando, seja por trabalho, estudo, lazer ou projetos próprios.
 
 Pronomes: ele/dele. <br><br>
 
