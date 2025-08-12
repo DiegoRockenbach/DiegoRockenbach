@@ -34,7 +34,7 @@ Pronouns: he/him. <br><br>
 
 <div align="center"><br>
   <a href="https://www.php.net/" target="_blank"><img align="center" alt="Diego-PHP" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)/" target="_blank"><img align="center" alt="Diego-C" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"></a>
+  <a href="https://en.wikipedia.org/wiki/C++" target="_blank"><img align="center" alt="Diego-C++" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"></a>
   <a href="https://developer.mozilla.org/docs/Web/HTML/" target="_blank"><img align="center" alt="Diego-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg"></a>
   <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img align="center" alt="Diego-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"></a>
   <a href="https://getbootstrap.com/" target="_blank"><img align="center" alt="Diego-BOOTSTRAP" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></a>
