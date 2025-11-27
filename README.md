@@ -15,7 +15,7 @@ Pronomes: ele/dele. <br><br>
 
 # <i> Hello World! </i> <img src="assets/earth.gif" width="35px" height="35px"/>
 
-My name is **Diego Rockenbach**, I am 20 years old and I fell in love with programming during High School. Since then I have been programming, whether for work, study, leisure or personal projects.
+My name is **Diego Rockenbach**, I was born in 2004 and I fell in love with programming during High School. Since then I have been programming, whether for work, study, leisure or personal projects.
 
 Pronouns: he/him. <br><br>
 
